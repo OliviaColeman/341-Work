@@ -1,6 +1,6 @@
 Olivia Coleman 51
 
-# Week Two Assignment
+# `Week Two Assignment`
 
 ## 1. Summary
 * I followed the Week-2 section on our course webpage. I watched the videos posted for creating the text files.
@@ -28,7 +28,6 @@ It would be great if we could discuss PowerShell a little more in-depth in this 
 I wasn't able to answer any questions for help with the homework because I hardly understand it myself. I am hoping that once I further understand what I am doing with Microsoft PowerShell, it will be easier to contribute to classmate issues.
 
 ![Image of my Editor](Screen Shot of Text Editor.PNG)
-
 
 <dl>
   <dt>Inline Code</dt>
