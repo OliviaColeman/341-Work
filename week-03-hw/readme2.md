@@ -11,7 +11,7 @@ Olivia Coleman 51
 
 ## 2. Trials and Triumphs
 * I learned **not** to make the mistake of using `<p/>` instead of `</p>`
-* I think I finally got the hang of comitting files to my GitHub account.
+* I think I finally got the hang of committing files to my GitHub account.
 * I learned how to add emojis to markdown files for the fun of it. :smiley: :lollipop:
 
 ## 3. Going forward
