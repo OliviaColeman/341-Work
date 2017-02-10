@@ -29,7 +29,8 @@ I wasn't able to answer any questions for help with the homework because I hardl
 
 ![Image of my Editor](Screen Shot of Text Editor.PNG)
 
-<dl>
-  <dt>`Inline Code`</dt>
-  <dd>Am I doing this right?</dd>
-</dl>
+**Inline code example:**
+
+`<body>
+  <p>Am I doing this right?</p>
+</body>`
