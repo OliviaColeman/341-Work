@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Questionnaire</title>
+  </head>
+  <body>
+    <h3>Olivia Coleman</h3>
+    <hr />
+    <h1>Animal Assisted Therapy Questionnaire</h1>
+    <form>
+      <fieldset>
+        <legend>
+          <strong>Basic Information:</strong>
+        </legend>
+        <label>
+          Name:
+          <input type="text" name ="name" size="35" maxlength="100" autofocus/>
+        </label>
+        <br />
+        <br />
+        <label>
+          Email:
+          <input type="email" name="email" size="35" maxlength="100" placeholder="example:JaneDoe@yahoo.com" required />
+        </label>
+        <br />
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>
+          <strong>Personal Opinions:</strong>
+        </legend>
+        <p>
+          <label for="is-it-beneficial">
+            Do you think that animal assisted therapy is beneficial?
+          </label>
+            <br />
+            <input type="radio" name="beneficial" value="yes" />Yes<br />
+            <input type="radio" name="beneficial" value="no" />No<br />
+            <input type="radio" name="beneficial" value="neutral" />Neutral<br />
+        </p>
+        <br />
+        <p>
+          <label for="explain">
+            Please explain your answer to the question above:
+          </label>
+        </p>
+          <textarea name="comments" cols="45" rows="10">Type Here...</textarea>
+        <br />
+        <br />
+        <p>
+          <label for="moral">
+            How do you view animal assisted therapy based on your morals?
+          </label>
+            <br />
+            <input type="radio" name="morals" value="morally right" />Morally Right<br />
+            <input type="radio" name="morals" value="morally wrong" />Morally Wrong<br />
+            <input type="radio" name="morals" value="no opinion" />No Opinion<br />
+        </p>
+        <br />
+        <p>
+          <label>
+            If you were the owner of rental property, would you deny a person the right to use a therapy animal?
+          </label>
+            <br />
+            <input type="radio" name="renting" value="yes" />Yes<br />
+            <input type="radio" name="renting" value="no" />No<br />
+            <input type="radio" name="renting" value="no opinion" />No Opinion<br />
+        </p>
+        <br />
+        <p>
+          <label for="explain">
+            Please explain your answer to the question above:
+          </label>
+        </p>
+          <textarea name="comments" cols="45" rows="10">Type Here...</textarea>
+        <br />
+        <br />
+        <p>
+          <label for="preference">
+            What type of therapy animal would you prefer?
+          </label>
+        </p>
+          <select name="animals">
+            <option value="dog">Dog</option>
+            <option value="cat">Cat</option>
+            <option value="horse">Horse</option>
+            <option value="dolphin">Dolphin</option>
+            <option value="rodent">Rodent</option>
+            <option value="amphibian">Amphibian</option>
+          </select>
+        <br />
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>
+          <strong>Other Questions:</strong>
+        </legend>
+        <p>
+          <label for="ever-utilized">
+            Have you ever utilized animal assisted therapy?
+          </label>
+            <br />
+            <input type="checkbox" name="utilized" value="yes" />Yes<br />
+            <input type="checkbox" name="utilized" value="no" />No<br />
+        </p>
+        <br />
+        <p>
+          <label for="denied-housing">
+            Do you personally know anyone who has been denied housing due to their need for a therapy animal?
+          </label>
+            <br />
+            <input type="checkbox" name="denied" value="yes" />Yes<br />
+            <input type="checkbox" name="denied" value="no" />No<br />
+        </p>
+        <br />
+      </fieldset>
+      <input type="submit" name="Submit" value="Submit" />
+    </form>
+  </body>
+</html>
