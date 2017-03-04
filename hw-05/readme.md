@@ -8,6 +8,10 @@ Olivia Coleman 51
 * I created the html and markdown files.
 * I utilized the `Bing` search bar for help with my homework.
 * I recently wrote a paper about assisted animal therapy, so I thought it would be neat to create my questionnaire based on another project I had completed for a different class.
+* Some screen shots of my work:
+![Code Example](imgs/Code Example.PNG)
+
+![Markdown Example](imgs/Markdown Example.PNG)
 
 ## 2. Trials and Triumphs
 * I struggled a little bit with adding pictures in `html`.
