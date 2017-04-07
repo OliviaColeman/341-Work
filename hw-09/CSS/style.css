@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Frijole|Walter+Turncoat');
+
+#site-header {
+              background-color: rgb(195, 0, 0);
+              margin: 0;
+              height: 140px;}
+
+#title {
+        float: left;
+        margin-left: 0.75em;
+        font-family: 'Frijole', cursive;
+        font-size: 30px;
+        color: rgb(0, 0, 0);}
+
+#site-logo {
+            float: right;
+            padding: 10px;
+            margin-right: 0.75em;}
+
+#side-menu {
+            margin: 0;
+            padding: 0;
+            position: left;
+            width: 15%;
+            height: 600px;
+            background-color: rgb(143, 143, 143);}
+
+.menu-container {
+                 background-color: rgb(0, 0, 0);
+                 margin: 0;
+                 padding: 0;}
+
+.menuitem {
+          display: inline-block;
+          padding: 0.5em 1em;
+          padding-right: 2.5em;
+          text-align: left;
+          text-decoration: none;
+          font-family: 'Walter Turncoat', cursive;
+          color: rgb(255, 255, 255);}
+
+.menuitem:hover, .dropdown:hover {
+                                  color: rgb(255, 255, 255);
+                                  background-color: rgb(143, 143, 143);}
+
+.dropdown {
+           display: inline-block;
+           width: 10%;
+           min-width: 100px;}
+
+.dropdown-content {
+                   display: none;
+                   position: absolute;
+                   border: 3px solid rgb(0, 0, 0);
+                   margin: 0;
+                   color: rgb(0, 0, 0);
+                   background-color: rgb(255, 255, 255);
+                   z-index: 1;}
+
+.dropdown-content a {
+                     color: rgb(0, 0, 0);
+                     text-decoration: none;}
+
+.dropdown:hover .dropdown-content {
+                                   display: block;}
+
+.dropdown-item {
+                display: block;
+                text-align: left;
+                font-family: 'Walter Turncoat', cursive;
+                margin: 0;
+                padding: 0.5em;
+                min-width: 7em;}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+                                              color: rgb(255, 255, 255);
+                                              background-color: rgb(11, 135, 0);}
