@@ -99,7 +99,8 @@ h3 {
 
 #email a {
         color: rgb(195, 0, 0);
-        border: 1px solid;}
+        border: 1px solid;
+        padding: 5px;}
 
 #email:hover a {
          color: rgb(0, 0, 0);}
@@ -112,3 +113,24 @@ h3 {
 
 #email {
         text-align: center;}
+
+#links {
+        text-align: center;}
+
+#links a {
+          color: rgb(195, 0, 0);}
+
+#cracked:hover a {
+                  color: rgb(0, 0, 0);}
+
+#wikipedia:hover a {
+                    color: rgb(0, 0, 0);}
+
+#disease-control:hover a {
+                          color: rgb(0, 0, 0);}
+
+#diy:hover a {
+              color: rgb(0, 0, 0);}
+
+#kit:hover a {
+              color: rgb(0, 0, 0);}
