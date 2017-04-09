@@ -57,8 +57,24 @@
         font-size: 16px;
         text-align: left;
         position: relative;
-        left: 40%;
-        top: auto;}
+        left: 40%;}
+
+#how-prepare {
+              color: rgb(0, 0, 0);
+              font-family: 'Droid Sans', sans-serif;
+              line-height: 1.4em;
+              font-size: 16px;
+              text-align: center;
+              text-indent: 25px;}
+
+#kit-list {
+           color: rgb(0, 0, 0);
+           font-family: 'Droid Sans', sans-serif;
+           line-height: 1.4em;
+           font-size: 16px;
+           text-align: left;
+           position: relative;
+           left: 45%;}
 
 .menu-container {
                  background-color: rgb(0, 0, 0);
