@@ -12,6 +12,7 @@ Olivia Coleman 51
 * I used `float:` to create the layout with the side menu and main content boxes.
 * I used `display: block` and `z-index:` for the dropdown menu.
 * I used `position: static` in my `<h3>` headers.
+* I used `position: relative` in my unordered list.
 
 ## 2. Trial and Triumphs
 * It took me a really long time to get the dropdown menu working and the layout to look correctly on all the pages. The boxes kept moving around.
