@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Jaldi');
+
+#container {
+            display: flex;
+            flex-wrap: wrap;
+            font-family: 'Jaldi', sans-serif;}
+
+.purple-box {
+             background-color: rgb(155, 40, 235);
+             width: 100%;
+             text-align: center;}
+
+.yellow-box {
+             background-color: rgb(242, 233, 17);
+             width: 100%;
+             text-align: center}
+
+.turquoise-box {
+                background-color: rgb(14, 128, 110);
+                width: 100%;
+                max-height: 350px;
+                text-align: center;
+                overflow: scroll;}
+
+@media screen and (min-width: 771px) {
+                                       .purple-box {
+                                                    width: 50%;}
+                                       .yellow-box {
+                                                    width: 50%;}
+                                       .turquoise-box {
+                                                       width: 100%;}
+                                                                    }
+
+img {
+     width: 600px;
+     height: 400px;}
