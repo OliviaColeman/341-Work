@@ -85,6 +85,14 @@ a {
    font-family: 'Josefin Sans', sans-serif;
    font-size: 20px;}
 
+#facts:hover a {
+                color: rgb(255, 255, 255);}
+
+#mushroom:hover a {
+                   color: rgb(255, 255, 255);}
+
+#about-mushrooms:hover a {
+                          color: rgb(255, 255, 255);}
 
 @media only screen and (max-device-width: 1024px) {
                                                    .img-1, .img-2, .img-3 {
