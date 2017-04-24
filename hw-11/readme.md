@@ -3,13 +3,19 @@ Olivia Coleman 51
 # `Week Eleven Assignment`
 
 ## 1. Summary
-
+* I first created my files and folders.
+* Then I decided on a topic and looked for pictures that would work well.
+* I made sure the layout worked before I started adding text.
+* I added some links for more information to keep the site short.
+* Then I used Google Fonts for a font type.
 
 ## 2. Trials and Triumphs
-
+* I had to place my images folder in the CSS folder for the images to show.
+* It was difficult at first to find images that would work well for the full screen background.
+* I feel like the site turned out better than I had expected.
 
 ## 3. Going Forward
-
+* I can't believe how much I have learned so far! I can't wait to apply my skills in my career.
 
 ## 4. Resources
 * [Fantasy Mushroom Picture](http://picphotos.net/forest-landscape-fantasy-mushroom-mushroom-grass-humor-funny-wallpaper/)
